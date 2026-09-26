@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">청년홈케어 차량 랩핑 이미지</title>
+  <desc id="desc">진회색 준중형 SUV 측면에 청년홈케어 상호, 청소 서비스 종류, 전화번호가 들어간 차량 이미지</desc>
+  <defs>
+    <linearGradient id="car" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#56606c"/>
+      <stop offset=".55" stop-color="#2d3540"/>
+      <stop offset="1" stop-color="#151b24"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0878f9"/>
+      <stop offset="1" stop-color="#00a8ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#001b40" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="720" height="300" fill="none"/>
+  <ellipse cx="366" cy="250" rx="300" ry="24" fill="#00306e" opacity=".25"/>
+  <g filter="url(#shadow)">
+    <path d="M84 184 C98 132 145 111 223 109 L291 69 C315 55 344 48 379 49 L491 53 C531 55 563 74 595 112 L646 123 C674 129 691 150 690 178 L685 205 C681 224 666 233 641 233 H123 C92 233 75 221 70 200 Z" fill="url(#car)"/>
+    <path d="M229 113 L292 76 C312 64 338 59 369 60 L474 65 C504 67 527 83 550 113 Z" fill="#101722"/>
+    <path d="M247 111 L303 80 H376 L371 111 Z" fill="#cfe9ff" opacity=".9"/>
+    <path d="M388 80 H469 C494 82 514 94 532 113 H386 Z" fill="#cfe9ff" opacity=".86"/>
+    <path d="M99 181 H668" stroke="#6f7a86" stroke-width="3" opacity=".6"/>
+    <path d="M174 128 H570 C597 128 621 146 626 173 L632 207 H151 L160 151 C162 137 165 128 174 128Z" fill="#313a46" opacity=".32"/>
+    <rect x="286" y="134" width="180" height="70" rx="10" fill="url(#blue)"/>
+    <text x="376" y="162" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="30" font-weight="900" fill="#ffffff">청년홈케어</text>
+    <text x="376" y="187" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="15" font-weight="800" fill="#e8f6ff">종합청소 · 홈클리닝</text>
+    <g font-family="Arial, 'Noto Sans KR', sans-serif" font-weight="900">
+      <text x="132" y="151" font-size="18" fill="#ffffff">정기청소</text>
+      <text x="132" y="176" font-size="18" fill="#ffffff">바닥왁스</text>
+      <text x="132" y="201" font-size="18" fill="#ffffff">입주청소</text>
+      <text x="490" y="151" font-size="18" fill="#ffffff">화장실</text>
+      <text x="490" y="176" font-size="18" fill="#ffffff">에어컨</text>
+      <text x="490" y="201" font-size="18" fill="#ffffff">유리창</text>
+    </g>
+    <rect x="246" y="213" width="258" height="34" rx="17" fill="#ffffff"/>
+    <text x="375" y="237" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="25" font-weight="900" fill="#074ca5">010-9730-4719</text>
+    <circle cx="181" cy="231" r="42" fill="#121820"/>
+    <circle cx="181" cy="231" r="24" fill="#36404c"/>
+    <circle cx="181" cy="231" r="11" fill="#97a6b7"/>
+    <circle cx="584" cy="231" r="42" fill="#121820"/>
+    <circle cx="584" cy="231" r="24" fill="#36404c"/>
+    <circle cx="584" cy="231" r="11" fill="#97a6b7"/>
+    <path d="M83 186 C109 194 138 194 158 188" stroke="#9aa8b7" stroke-width="4" opacity=".55"/>
+    <path d="M626 135 C650 140 669 153 681 174" stroke="#9aa8b7" stroke-width="4" opacity=".6"/>
+  </g>
+</svg>
