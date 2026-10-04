@@ -1399,3 +1399,43 @@ body.home-page .cta-actions button{
   color:#405574;
   font-weight:700;
 }
+
+/* homecare-process-card-readable */
+@media(min-width:1081px){
+  .homecare-page .homecare-process .grid4{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+  .homecare-page .homecare-process .grid4 article{min-height:180px;padding:22px 18px}
+  .homecare-page .homecare-process .grid4 h3{font-size:19px;line-height:1.35;margin:8px 0}
+  .homecare-page .homecare-process .grid4 p{font-size:15px;line-height:1.65;margin:0}
+}
+@media(min-width:641px) and (max-width:1080px){
+  .homecare-page .homecare-process .grid4{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+.homecare-page .homecare-process .grid4 article{
+  position:relative;
+  background:linear-gradient(180deg,#ffffff 0%,#f4faff 100%);
+  color:#15345f;
+  overflow:hidden;
+}
+.homecare-page .homecare-process .grid4 article:before{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  height:5px;
+  background:linear-gradient(90deg,#0878f9,#41d7ff);
+}
+.homecare-page .homecare-process .grid4 span{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:42px;
+  height:42px;
+  margin-bottom:14px;
+  border-radius:12px;
+  background:#e9f5ff;
+  color:#0878f9;
+  font-weight:900;
+}
+.homecare-page .homecare-process .grid4 h3{color:#082b67}
+.homecare-page .homecare-process .grid4 p{color:#405574;font-weight:700}
