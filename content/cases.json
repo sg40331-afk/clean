@@ -1,0 +1,98 @@
+[
+  {
+    "status": "example",
+    "slug": "example-floor-wax",
+    "title": "사무실 바닥 세척 및 왁스코팅 예시",
+    "category": "floor",
+    "categoryLabel": "바닥·왁스",
+    "service": "바닥·왁스코팅",
+    "region": "서울 강남구",
+    "spaceType": "사무실",
+    "summary": "보행이 많은 사무실 바닥의 광택 저하와 오염 누적을 정리하는 예시 구성입니다.",
+    "workDate": "예시 구성",
+    "duration": "확인 필요",
+    "crew": "확인 필요",
+    "workScope": "사무실 공용 바닥, 출입 동선",
+    "coverImage": "/public/images/journal-floor-wax-v1.png",
+    "beforeImage": "/public/images/office-before-full-v4.png",
+    "afterImage": "/public/images/office-after-full-v4.png",
+    "relatedService": "/services/floor-wax/",
+    "relatedGuides": [
+      "floor-cleaning-wax-difference"
+    ],
+    "request": "바닥의 잔얼룩과 광택 저하로 공간이 어두워 보이는 상황을 가정한 예시입니다.",
+    "before": "의자 이동 자국, 보행 동선 얼룩, 기존 광택 저하가 있는 상태를 기준으로 구성했습니다.",
+    "plan": [
+      "현장 동선과 바닥 소재 확인",
+      "먼지와 이물질 제거",
+      "바닥 세척 후 건조 상태 확인",
+      "왁스코팅 가능 범위 상담",
+      "마감 후 주요 구역 점검"
+    ],
+    "result": "바닥 표면의 흐릿함을 줄이고, 사무실 첫인상이 더 정돈되어 보이도록 관리하는 흐름을 보여줍니다."
+  },
+  {
+    "status": "example",
+    "slug": "example-restroom",
+    "title": "상가 화장실 위생공간 청소 예시",
+    "category": "restroom",
+    "categoryLabel": "화장실",
+    "service": "화장실청소",
+    "region": "인천 연수구",
+    "spaceType": "상가 화장실",
+    "summary": "물때와 냄새 원인을 중심으로 세면대, 바닥, 배수구 주변을 점검하는 예시 구성입니다.",
+    "workDate": "예시 구성",
+    "duration": "확인 필요",
+    "crew": "확인 필요",
+    "workScope": "세면대, 변기, 바닥, 배수구 주변",
+    "coverImage": "/public/images/journal-restroom-v1.png",
+    "beforeImage": "/public/images/restroom-before-full-v4.png",
+    "afterImage": "/public/images/restroom-after-full-v4.png",
+    "relatedService": "/services/restroom/",
+    "relatedGuides": [
+      "restroom-odor-after-cleaning"
+    ],
+    "request": "청소 후에도 냄새가 남거나 바닥 물때가 반복되는 상황을 가정했습니다.",
+    "before": "배수구 주변 냄새, 바닥 줄눈 오염, 세면대 물때가 누적된 공간을 기준으로 구성했습니다.",
+    "plan": [
+      "환기와 배수 상태 확인",
+      "세면대와 수전 주변 세척",
+      "바닥과 줄눈 오염 정리",
+      "배수구 주변 관리",
+      "마무리 냄새 확인"
+    ],
+    "result": "물때와 냄새 원인을 구역별로 나누어 확인하고, 반복 관리가 필요한 부분을 안내하는 흐름입니다."
+  },
+  {
+    "status": "example",
+    "slug": "example-aircon",
+    "title": "사무실 에어컨 필터·송풍구 청소 예시",
+    "category": "aircon",
+    "categoryLabel": "에어컨",
+    "service": "에어컨청소",
+    "region": "서울 마포구",
+    "spaceType": "사무실",
+    "summary": "필터 먼지와 송풍구 냄새를 중심으로 점검하는 에어컨청소 예시 구성입니다.",
+    "workDate": "예시 구성",
+    "duration": "확인 필요",
+    "crew": "확인 필요",
+    "workScope": "필터, 송풍구, 외관, 주변 정리",
+    "coverImage": "/public/images/journal-aircon-v1.png",
+    "beforeImage": "/public/images/aircon-before-full-v4.png",
+    "afterImage": "/public/images/aircon-after-full-v4.png",
+    "relatedService": "/services/aircon/",
+    "relatedGuides": [
+      "aircon-filter-disassembly-difference"
+    ],
+    "request": "가동 전 냄새와 필터 먼지가 걱정되는 상황을 가정한 예시입니다.",
+    "before": "필터에 먼지가 쌓이고 송풍구 주변에 오염이 보이는 상태를 기준으로 구성했습니다.",
+    "plan": [
+      "전원과 작업 안전 확인",
+      "필터 분리 가능 범위 확인",
+      "필터 먼지 제거",
+      "송풍구와 외관 관리",
+      "건조와 작동 상태 확인"
+    ],
+    "result": "사용 빈도와 오염 정도에 따라 필터청소와 분해청소 상담 범위를 구분해 안내합니다."
+  }
+]

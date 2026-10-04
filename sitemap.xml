@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.com/</loc></url><url><loc>https://example.com/about/</loc></url><url><loc>https://example.com/services/</loc></url><url><loc>https://example.com/services/regular/</loc></url><url><loc>https://example.com/services/office/</loc></url><url><loc>https://example.com/services/floor-wax/</loc></url><url><loc>https://example.com/services/building/</loc></url><url><loc>https://example.com/services/parking/</loc></url><url><loc>https://example.com/services/restroom/</loc></url><url><loc>https://example.com/services/window/</loc></url><url><loc>https://example.com/services/kitchen/</loc></url><url><loc>https://example.com/services/special/</loc></url><url><loc>https://example.com/services/aircon/</loc></url><url><loc>https://example.com/home-care/</loc></url><url><loc>https://example.com/home-care/move-in/</loc></url><url><loc>https://example.com/home-care/fabric/</loc></url><url><loc>https://example.com/cases/</loc></url><url><loc>https://example.com/cases/example-floor-wax/</loc></url><url><loc>https://example.com/cases/example-restroom/</loc></url><url><loc>https://example.com/cases/example-aircon/</loc></url><url><loc>https://example.com/guide/</loc></url><url><loc>https://example.com/guide/preparation/</loc></url><url><loc>https://example.com/guide/after-care/</loc></url><url><loc>https://example.com/guide/service-scope/</loc></url><url><loc>https://example.com/faq/</loc></url><url><loc>https://example.com/contact/</loc></url><url><loc>https://example.com/privacy/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/about/</loc></url>
+  <url><loc>https://example.com/services/</loc></url>
+  <url><loc>https://example.com/home-care/</loc></url>
+  <url><loc>https://example.com/cases/</loc></url>
+  <url><loc>https://example.com/cases/example-floor-wax/</loc></url>
+  <url><loc>https://example.com/cases/example-restroom/</loc></url>
+  <url><loc>https://example.com/cases/example-aircon/</loc></url>
+  <url><loc>https://example.com/guide/</loc></url>
+  <url><loc>https://example.com/guide/cleaning-estimate-criteria/</loc></url>
+  <url><loc>https://example.com/guide/photo-estimate-guide/</loc></url>
+  <url><loc>https://example.com/guide/choosing-cleaning-company/</loc></url>
+  <url><loc>https://example.com/guide/office-regular-cleaning-cycle/</loc></url>
+  <url><loc>https://example.com/guide/office-cleaning-scope/</loc></url>
+  <url><loc>https://example.com/guide/floor-cleaning-wax-difference/</loc></url>
+  <url><loc>https://example.com/faq/</loc></url>
+  <url><loc>https://example.com/contact/</loc></url>
+  <url><loc>https://example.com/privacy/</loc></url>
+</urlset>
