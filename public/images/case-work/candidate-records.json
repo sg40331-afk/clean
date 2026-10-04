@@ -1,0 +1,370 @@
+[
+  {
+    "folder": "1케어(고양이오줌)",
+    "slug": "work-01",
+    "images": [
+      "/public/images/case-work/work-01-1.webp",
+      "/public/images/case-work/work-01-2.webp"
+    ]
+  },
+  {
+    "folder": "2케어(카페트 습식케어)",
+    "slug": "work-02",
+    "images": [
+      "/public/images/case-work/work-02-1.webp",
+      "/public/images/case-work/work-02-2.webp"
+    ]
+  },
+  {
+    "folder": "3케어(강아지오줌얼룩제거)",
+    "slug": "work-03",
+    "images": [
+      "/public/images/case-work/work-03-1.webp",
+      "/public/images/case-work/work-03-2.webp"
+    ]
+  },
+  {
+    "folder": "4케어(5년중고매트리스 습식케어)",
+    "slug": "work-04",
+    "images": [
+      "/public/images/case-work/work-04-1.webp",
+      "/public/images/case-work/work-04-2.webp"
+    ]
+  },
+  {
+    "folder": "5케어(곰팡이)",
+    "slug": "work-05",
+    "images": [
+      "/public/images/case-work/work-05-1.webp",
+      "/public/images/case-work/work-05-2.webp"
+    ]
+  },
+  {
+    "folder": "6케어(리모델링 후 매트리스케어)",
+    "slug": "work-06",
+    "images": [
+      "/public/images/case-work/work-06-1.webp",
+      "/public/images/case-work/work-06-2.webp"
+    ]
+  },
+  {
+    "folder": "7케어(고양이오줌얼룩케어)",
+    "slug": "work-07",
+    "images": [
+      "/public/images/case-work/work-07-1.webp",
+      "/public/images/case-work/work-07-2.webp"
+    ]
+  },
+  {
+    "folder": "8케어(강아지 오줌오얼룩제거)",
+    "slug": "work-08",
+    "images": [
+      "/public/images/case-work/work-08-1.webp",
+      "/public/images/case-work/work-08-2.webp"
+    ]
+  },
+  {
+    "folder": "9케어(강아지 오줌얼룩)",
+    "slug": "work-09",
+    "images": [
+      "/public/images/case-work/work-09-1.webp",
+      "/public/images/case-work/work-09-2.webp"
+    ]
+  },
+  {
+    "folder": "10케어(강아지 얼룩 카페트)",
+    "slug": "work-10",
+    "images": [
+      "/public/images/case-work/work-10-1.webp",
+      "/public/images/case-work/work-10-2.webp"
+    ]
+  },
+  {
+    "folder": "11케어(일반 카페트스팀청소)",
+    "slug": "work-11",
+    "images": [
+      "/public/images/case-work/work-11-1.webp",
+      "/public/images/case-work/work-11-2.webp"
+    ]
+  },
+  {
+    "folder": "12케어(강아지고양이 오줌얼룩스팀케어)",
+    "slug": "work-12",
+    "images": [
+      "/public/images/case-work/work-12-1.webp",
+      "/public/images/case-work/work-12-2.webp"
+    ]
+  },
+  {
+    "folder": "13케어(두아이 오줌습식케어)",
+    "slug": "work-13",
+    "images": [
+      "/public/images/case-work/work-13-1.webp",
+      "/public/images/case-work/work-13-2.webp"
+    ]
+  },
+  {
+    "folder": "14케어(강아지 오줌얼룩제거)",
+    "slug": "work-14",
+    "images": [
+      "/public/images/case-work/work-14-1.webp",
+      "/public/images/case-work/work-14-2.webp"
+    ]
+  },
+  {
+    "folder": "15케어(2인용리클라이너케어)",
+    "slug": "work-15",
+    "images": [
+      "/public/images/case-work/work-15-1.webp",
+      "/public/images/case-work/work-15-2.webp"
+    ]
+  },
+  {
+    "folder": "16케어(이사후매트리스습식케어)",
+    "slug": "work-16",
+    "images": [
+      "/public/images/case-work/work-16-1.webp",
+      "/public/images/case-work/work-16-2.webp"
+    ]
+  },
+  {
+    "folder": "17케어(고양이오줌얼룩제거 스팀케어)",
+    "slug": "work-17",
+    "images": [
+      "/public/images/case-work/work-17-1.webp",
+      "/public/images/case-work/work-17-2.webp"
+    ]
+  },
+  {
+    "folder": "18케어(카페트얼룩제거 스팀케어)",
+    "slug": "work-18",
+    "images": [
+      "/public/images/case-work/work-18-1.webp",
+      "/public/images/case-work/work-18-2.webp"
+    ]
+  },
+  {
+    "folder": "19케어(피부과 소파 스팀케어)",
+    "slug": "work-19",
+    "images": [
+      "/public/images/case-work/work-19-1.webp",
+      "/public/images/case-work/work-19-2.webp"
+    ]
+  },
+  {
+    "folder": "20케어(8인용소파케어)",
+    "slug": "work-20",
+    "images": [
+      "/public/images/case-work/work-20-1.webp",
+      "/public/images/case-work/work-20-2.webp"
+    ]
+  },
+  {
+    "folder": "21케어(영종도 매트리스케어)",
+    "slug": "work-21",
+    "images": [
+      "/public/images/case-work/work-21-1.webp",
+      "/public/images/case-work/work-21-2.webp"
+    ]
+  },
+  {
+    "folder": "22케어(카페트 스팀케어)",
+    "slug": "work-22",
+    "images": [
+      "/public/images/case-work/work-22-1.webp",
+      "/public/images/case-work/work-22-2.webp"
+    ]
+  },
+  {
+    "folder": "23케어(강아지 오줌얼룩케어)",
+    "slug": "work-23",
+    "images": [
+      "/public/images/case-work/work-23-1.webp",
+      "/public/images/case-work/work-23-2.webp"
+    ]
+  },
+  {
+    "folder": "24케어(이사후 매트리스케어)",
+    "slug": "work-24",
+    "images": [
+      "/public/images/case-work/work-24-1.webp",
+      "/public/images/case-work/work-24-2.webp"
+    ]
+  },
+  {
+    "folder": "25케어(기존매트리스 습식케어)",
+    "slug": "work-25",
+    "images": [
+      "/public/images/case-work/work-25-1.webp",
+      "/public/images/case-work/work-25-2.webp"
+    ]
+  },
+  {
+    "folder": "26케어(두아이 가족 오줌 얼룩제거 싱글 킹사이즈 스팀케어)",
+    "slug": "work-26",
+    "images": [
+      "/public/images/case-work/work-26-1.webp",
+      "/public/images/case-work/work-26-2.webp"
+    ]
+  },
+  {
+    "folder": "27케어(이사후 매트리스 얼룩케어)",
+    "slug": "work-27",
+    "images": [
+      "/public/images/case-work/work-27-1.webp",
+      "/public/images/case-work/work-27-2.webp"
+    ]
+  },
+  {
+    "folder": "28케어(곰팡이제거)",
+    "slug": "work-28",
+    "images": [
+      "/public/images/case-work/work-28-1.webp",
+      "/public/images/case-work/work-28-2.webp"
+    ]
+  },
+  {
+    "folder": "29케어(고양이오줌얼룩제거)",
+    "slug": "work-29",
+    "images": [
+      "/public/images/case-work/work-29-1.webp",
+      "/public/images/case-work/work-29-2.webp"
+    ]
+  },
+  {
+    "folder": "30케어(강아지오줌 똥 얼룩제거)",
+    "slug": "work-30",
+    "images": [
+      "/public/images/case-work/work-30-1.webp",
+      "/public/images/case-work/work-30-2.webp"
+    ]
+  },
+  {
+    "folder": "31케어(강아지오줌제거)",
+    "slug": "work-31",
+    "images": [
+      "/public/images/case-work/work-31-1.webp",
+      "/public/images/case-work/work-31-2.webp"
+    ]
+  },
+  {
+    "folder": "32케어(소파 리클라이너)",
+    "slug": "work-32",
+    "images": [
+      "/public/images/case-work/work-32-1.webp",
+      "/public/images/case-work/work-32-2.webp"
+    ]
+  },
+  {
+    "folder": "33케어(오줌제거 스팀케어)",
+    "slug": "work-33",
+    "images": [
+      "/public/images/case-work/work-33-1.webp",
+      "/public/images/case-work/work-33-2.webp"
+    ]
+  },
+  {
+    "folder": "34케어(오줌 얼룩제거 습식케어)",
+    "slug": "work-34",
+    "images": [
+      "/public/images/case-work/work-34-1.webp",
+      "/public/images/case-work/work-34-2.webp"
+    ]
+  },
+  {
+    "folder": "35케어(카페트 오염 냄새제거)",
+    "slug": "work-35",
+    "images": [
+      "/public/images/case-work/work-35-1.webp",
+      "/public/images/case-work/work-35-2.webp"
+    ]
+  },
+  {
+    "folder": "36케어(강아지오줌얼룩제거)",
+    "slug": "work-36",
+    "images": [
+      "/public/images/case-work/work-36-1.webp",
+      "/public/images/case-work/work-36-2.webp"
+    ]
+  },
+  {
+    "folder": "37케어(카페트 전체 오염도 냄새재거 스팀케어)",
+    "slug": "work-37",
+    "images": [
+      "/public/images/case-work/work-37-1.webp",
+      "/public/images/case-work/work-37-2.webp"
+    ]
+  },
+  {
+    "folder": "38케어 (소파4인용 스팀케어)",
+    "slug": "work-38",
+    "images": [
+      "/public/images/case-work/work-38-1.webp",
+      "/public/images/case-work/work-38-2.webp"
+    ]
+  },
+  {
+    "folder": "39케어(퀸사이즈 매트리스 오염도제거)",
+    "slug": "work-39",
+    "images": [
+      "/public/images/case-work/work-39-1.webp",
+      "/public/images/case-work/work-39-2.webp"
+    ]
+  },
+  {
+    "folder": "40케어(연남동 스튜디오 12평 카페트 스팀 케어)",
+    "slug": "work-40",
+    "images": [
+      "/public/images/case-work/work-40-1.webp",
+      "/public/images/case-work/work-40-2.webp"
+    ]
+  },
+  {
+    "folder": "41케어 강아지 오줌 얼룩제거",
+    "slug": "work-41",
+    "images": [
+      "/public/images/case-work/work-41-1.webp",
+      "/public/images/case-work/work-41-2.webp"
+    ]
+  },
+  {
+    "folder": "42케어 아이오줌얼룩제거",
+    "slug": "work-42",
+    "images": [
+      "/public/images/case-work/work-42-1.webp",
+      "/public/images/case-work/work-42-2.webp"
+    ]
+  },
+  {
+    "folder": "무인양품(영등포)",
+    "slug": "work-43",
+    "images": [
+      "/public/images/case-work/work-43-1.webp",
+      "/public/images/case-work/work-43-2.webp"
+    ]
+  },
+  {
+    "folder": "소파",
+    "slug": "work-44",
+    "images": [
+      "/public/images/case-work/work-44-1.webp",
+      "/public/images/case-work/work-44-2.webp"
+    ]
+  },
+  {
+    "folder": "오줌얼룩제거",
+    "slug": "work-45",
+    "images": [
+      "/public/images/case-work/work-45-1.webp",
+      "/public/images/case-work/work-45-2.webp"
+    ]
+  },
+  {
+    "folder": "작업",
+    "slug": "work-46",
+    "images": [
+      "/public/images/case-work/work-46-1.webp",
+      "/public/images/case-work/work-46-2.webp"
+    ]
+  }
+]

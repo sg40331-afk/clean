@@ -11,7 +11,7 @@
     "date": "2026-10-04",
     "relatedService": "/contact/",
     "relatedCases": [
-      "example-floor-wax"
+      "case-02"
     ],
     "sections": [
       "견적은 면적 하나로 정해지기보다 공간의 용도, 오염 정도, 작업 높이, 장비 진입 조건, 작업 시간대가 함께 반영됩니다.",
@@ -32,7 +32,7 @@
     "date": "2026-10-04",
     "relatedService": "/contact/",
     "relatedCases": [
-      "example-restroom"
+      "case-03"
     ],
     "sections": [
       "현장사진은 상담을 빠르게 시작하는 데 큰 도움이 됩니다. 다만 사진에 보이지 않는 냄새, 소재 손상, 물 사용 조건은 추가 확인이 필요합니다.",
@@ -72,7 +72,7 @@
     "date": "2026-10-04",
     "relatedService": "/services/regular/",
     "relatedCases": [
-      "example-floor-wax"
+      "case-02"
     ],
     "sections": [
       "사무실 정기청소 주기는 공간을 사용하는 인원과 오염이 쌓이는 속도에 따라 달라집니다. 직원 수가 많거나 고객 방문이 잦은 공간은 관리 주기를 짧게 잡는 편이 좋습니다.",
@@ -93,7 +93,7 @@
     "date": "2026-10-04",
     "relatedService": "/services/office/",
     "relatedCases": [
-      "example-floor-wax"
+      "case-02"
     ],
     "sections": [
       "상가와 사무실은 고객과 직원이 함께 사용하는 공간이므로 첫인상과 동선 관리가 중요합니다.",
@@ -114,7 +114,7 @@
     "date": "2026-10-04",
     "relatedService": "/services/floor-wax/",
     "relatedCases": [
-      "example-floor-wax"
+      "case-02"
     ],
     "sections": [
       "바닥청소는 먼지, 얼룩, 끈적임처럼 표면에 남은 오염을 정리하는 작업입니다. 왁스코팅은 세척 후 표면을 보호하고 광택을 더하는 관리 방식입니다.",

@@ -1,76 +1,1153 @@
 [
   {
-    "status": "example",
-    "slug": "example-floor-wax",
-    "title": "사무실 바닥 세척 작업 예시",
-    "service": "바닥·왁스",
-    "region": "서울 강남구",
-    "summary": "사무실 바닥에 쌓인 먼지와 생활오염을 정리하는 게시판형 예시입니다.",
+    "status": "published",
+    "slug": "case-01",
+    "title": "고양이오줌 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
     "description": [
-      "이번 현장은 서울 강남구에 위치한 사무실로 가정한 예시 게시물입니다.",
-      "바닥에 먼지와 생활오염이 쌓여 전체적인 바닥 세척이 필요한 상황을 기준으로 구성했습니다.",
-      "현장 상태를 확인한 뒤 바닥의 먼지와 이물질을 먼저 정리하고, 바닥 표면을 차분히 세척하는 흐름으로 안내합니다.",
-      "작업 후 남은 물기와 오염 상태를 확인하고 사용에 불편함이 없도록 마무리하는 방식입니다. 실제 현장사진이 확보되면 해당 사진과 내용으로 교체합니다."
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "고양이오줌 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
     ],
     "images": [
-      "/public/images/journal-floor-wax-v1.png",
-      "/public/images/office-after-full-v4.png"
+      "/public/images/case-work/work-01-1.webp",
+      "/public/images/case-work/work-01-2.webp"
     ],
     "imageCaptions": [
-      "사무실 바닥 세척 작업 예시",
-      "청소 후 정돈된 바닥 예시"
+      "고양이오줌 현장사진",
+      "패브릭 케어 작업 장면"
     ],
     "publishedAt": "2026.10.04",
-    "relatedService": "/services/floor-wax/",
+    "relatedService": "/home-care/fabric/",
     "featured": true
   },
   {
-    "status": "example",
-    "slug": "example-restroom",
-    "title": "상가 화장실 청소 작업 예시",
-    "service": "화장실",
-    "region": "인천 연수구",
-    "summary": "상가 화장실의 물때와 배수구 주변 오염을 정리하는 간단 사례 예시입니다.",
+    "status": "published",
+    "slug": "case-02",
+    "title": "카페트 습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
     "description": [
-      "이번 현장은 인천 연수구에 위치한 상가 화장실로 가정한 예시 게시물입니다.",
-      "세면대와 바닥, 배수구 주변에 물때와 생활오염이 반복되는 상황을 기준으로 작성했습니다.",
-      "작업 전 주요 오염 구역을 확인하고, 세면대와 바닥, 배수구 주변을 중심으로 위생 관리가 필요한 부분을 정리합니다.",
-      "마무리 단계에서는 냄새와 물기, 남은 오염을 확인해 사용자가 바로 이용하기 편한 상태가 되도록 점검합니다."
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "카페트 습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
     ],
     "images": [
-      "/public/images/journal-restroom-v1.png"
+      "/public/images/case-work/work-02-1.webp",
+      "/public/images/case-work/work-02-2.webp"
     ],
     "imageCaptions": [
-      "상가 화장실 청소 작업 예시"
+      "카페트 습식케어 현장사진",
+      "카페트 관리 작업 장면"
     ],
     "publishedAt": "2026.10.04",
-    "relatedService": "/services/restroom/",
+    "relatedService": "/home-care/fabric/",
     "featured": true
   },
   {
-    "status": "example",
-    "slug": "example-aircon",
-    "title": "사무실 에어컨 필터 청소 예시",
-    "service": "에어컨",
-    "region": "서울 마포구",
-    "summary": "에어컨 필터와 송풍구 주변 먼지를 확인하고 관리하는 게시판형 예시입니다.",
+    "status": "published",
+    "slug": "case-03",
+    "title": "강아지오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
     "description": [
-      "이번 현장은 서울 마포구에 위치한 사무실 에어컨으로 가정한 예시 게시물입니다.",
-      "가동 전 냄새와 필터 먼지가 걱정되는 상황에서 필터와 송풍구 주변 확인이 필요한 경우입니다.",
-      "전원과 작업 안전을 먼저 확인한 뒤 분리 가능한 범위의 필터와 외관, 송풍구 주변을 중심으로 청소합니다.",
-      "작업 후에는 필터 장착 상태와 주변 정리 상태를 확인하고, 분해청소가 필요한 경우 별도 상담이 필요하다는 점을 안내합니다."
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
     ],
     "images": [
-      "/public/images/journal-aircon-v1.png",
-      "/public/images/services-aircon-cleaning-v1.webp"
+      "/public/images/case-work/work-03-1.webp",
+      "/public/images/case-work/work-03-2.webp"
     ],
     "imageCaptions": [
-      "에어컨 필터 청소 예시",
-      "필터와 송풍구 주변 관리 예시"
+      "강아지오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
     ],
     "publishedAt": "2026.10.04",
-    "relatedService": "/services/aircon/",
+    "relatedService": "/home-care/fabric/",
     "featured": true
+  },
+  {
+    "status": "published",
+    "slug": "case-04",
+    "title": "5년중고매트리스 습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "5년중고매트리스 습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-04-1.webp",
+      "/public/images/case-work/work-04-2.webp"
+    ],
+    "imageCaptions": [
+      "5년중고매트리스 습식케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-05",
+    "title": "곰팡이 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "곰팡이 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-05-1.webp",
+      "/public/images/case-work/work-05-2.webp"
+    ],
+    "imageCaptions": [
+      "곰팡이 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-06",
+    "title": "리모델링 후 매트리스케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "리모델링 후 매트리스케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-06-1.webp",
+      "/public/images/case-work/work-06-2.webp"
+    ],
+    "imageCaptions": [
+      "리모델링 후 매트리스케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-07",
+    "title": "고양이오줌얼룩케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "고양이오줌얼룩케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-07-1.webp",
+      "/public/images/case-work/work-07-2.webp"
+    ],
+    "imageCaptions": [
+      "고양이오줌얼룩케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-08",
+    "title": "강아지 오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 오줌오얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-08-1.webp",
+      "/public/images/case-work/work-08-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-09",
+    "title": "강아지 오줌얼룩 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 오줌얼룩 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-09-1.webp",
+      "/public/images/case-work/work-09-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 오줌얼룩 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-10",
+    "title": "강아지 얼룩 카페트 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 얼룩 카페트 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-10-1.webp",
+      "/public/images/case-work/work-10-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 얼룩 카페트 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-11",
+    "title": "일반 카페트스팀청소 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "일반 카페트스팀청소 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-11-1.webp",
+      "/public/images/case-work/work-11-2.webp"
+    ],
+    "imageCaptions": [
+      "일반 카페트스팀청소 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-12",
+    "title": "강아지고양이 오줌얼룩스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지고양이 오줌얼룩스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-12-1.webp",
+      "/public/images/case-work/work-12-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지고양이 오줌얼룩스팀케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-13",
+    "title": "두아이 오줌습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "두아이 오줌습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-13-1.webp",
+      "/public/images/case-work/work-13-2.webp"
+    ],
+    "imageCaptions": [
+      "두아이 오줌습식케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-14",
+    "title": "강아지 오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-14-1.webp",
+      "/public/images/case-work/work-14-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-15",
+    "title": "2인용리클라이너 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "2인용리클라이너의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "2인용리클라이너케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-15-1.webp",
+      "/public/images/case-work/work-15-2.webp"
+    ],
+    "imageCaptions": [
+      "2인용리클라이너 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-16",
+    "title": "이사후매트리스습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "이사후매트리스습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-16-1.webp",
+      "/public/images/case-work/work-16-2.webp"
+    ],
+    "imageCaptions": [
+      "이사후매트리스습식케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-17",
+    "title": "고양이오줌얼룩제거 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "고양이오줌얼룩제거 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-17-1.webp",
+      "/public/images/case-work/work-17-2.webp"
+    ],
+    "imageCaptions": [
+      "고양이오줌얼룩제거 스팀케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-18",
+    "title": "카페트얼룩제거 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "카페트얼룩제거 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-18-1.webp",
+      "/public/images/case-work/work-18-2.webp"
+    ],
+    "imageCaptions": [
+      "카페트얼룩제거 스팀케어 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-19",
+    "title": "피부과 소파 스팀 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "피부과 소파 스팀의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "피부과 소파 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-19-1.webp",
+      "/public/images/case-work/work-19-2.webp"
+    ],
+    "imageCaptions": [
+      "피부과 소파 스팀 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-20",
+    "title": "8인용소파 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "8인용소파의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "8인용소파케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-20-1.webp",
+      "/public/images/case-work/work-20-2.webp"
+    ],
+    "imageCaptions": [
+      "8인용소파 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-21",
+    "title": "영종도 매트리스케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "영종도",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 영종도에서 진행한 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "영종도 매트리스케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-21-1.webp",
+      "/public/images/case-work/work-21-2.webp"
+    ],
+    "imageCaptions": [
+      "영종도 매트리스케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-22",
+    "title": "카페트 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "카페트 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-22-1.webp",
+      "/public/images/case-work/work-22-2.webp"
+    ],
+    "imageCaptions": [
+      "카페트 스팀케어 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-23",
+    "title": "강아지 오줌얼룩케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 오줌얼룩케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-23-1.webp",
+      "/public/images/case-work/work-23-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 오줌얼룩케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-24",
+    "title": "이사후 매트리스케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "이사후 매트리스케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-24-1.webp",
+      "/public/images/case-work/work-24-2.webp"
+    ],
+    "imageCaptions": [
+      "이사후 매트리스케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-25",
+    "title": "기존매트리스 습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "기존매트리스 습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-25-1.webp",
+      "/public/images/case-work/work-25-2.webp"
+    ],
+    "imageCaptions": [
+      "기존매트리스 습식케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-26",
+    "title": "두아이 가족 오줌 얼룩제거 싱글 킹사이즈 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "두아이 가족 오줌 얼룩제거 싱글 킹사이즈 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-26-1.webp",
+      "/public/images/case-work/work-26-2.webp"
+    ],
+    "imageCaptions": [
+      "두아이 가족 오줌 얼룩제거 싱글 킹사이즈 스팀케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-27",
+    "title": "이사후 매트리스 얼룩케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "이사후 매트리스 얼룩케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-27-1.webp",
+      "/public/images/case-work/work-27-2.webp"
+    ],
+    "imageCaptions": [
+      "이사후 매트리스 얼룩케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-28",
+    "title": "곰팡이제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "곰팡이제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-28-1.webp",
+      "/public/images/case-work/work-28-2.webp"
+    ],
+    "imageCaptions": [
+      "곰팡이제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-29",
+    "title": "고양이오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "고양이오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-29-1.webp",
+      "/public/images/case-work/work-29-2.webp"
+    ],
+    "imageCaptions": [
+      "고양이오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-30",
+    "title": "강아지오줌 똥 얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지오줌 똥 얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-30-1.webp",
+      "/public/images/case-work/work-30-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지오줌 똥 얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-31",
+    "title": "강아지오줌제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지오줌제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-31-1.webp",
+      "/public/images/case-work/work-31-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지오줌제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-32",
+    "title": "소파 리클라이너 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "소파 리클라이너의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "소파 리클라이너 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-32-1.webp",
+      "/public/images/case-work/work-32-2.webp"
+    ],
+    "imageCaptions": [
+      "소파 리클라이너 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-33",
+    "title": "오줌제거 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "오줌제거 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-33-1.webp",
+      "/public/images/case-work/work-33-2.webp"
+    ],
+    "imageCaptions": [
+      "오줌제거 스팀케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-34",
+    "title": "오줌 얼룩제거 습식케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "오줌 얼룩제거 습식케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-34-1.webp",
+      "/public/images/case-work/work-34-2.webp"
+    ],
+    "imageCaptions": [
+      "오줌 얼룩제거 습식케어 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-35",
+    "title": "카페트 오염 냄새제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "카페트 오염 냄새제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-35-1.webp",
+      "/public/images/case-work/work-35-2.webp"
+    ],
+    "imageCaptions": [
+      "카페트 오염 냄새제거 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-36",
+    "title": "강아지오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-36-1.webp",
+      "/public/images/case-work/work-36-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-37",
+    "title": "카페트 전체 오염도 냄새제거 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "카페트 전체 오염도 냄새재거 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-37-1.webp",
+      "/public/images/case-work/work-37-2.webp"
+    ],
+    "imageCaptions": [
+      "카페트 전체 오염도 냄새제거 스팀케어 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-38",
+    "title": "소파4인용 스팀 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "소파4인용 스팀의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "소파4인용 스팀케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-38-1.webp",
+      "/public/images/case-work/work-38-2.webp"
+    ],
+    "imageCaptions": [
+      "소파4인용 스팀 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-39",
+    "title": "퀸사이즈 매트리스 오염도제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "퀸사이즈 매트리스 오염도제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-39-1.webp",
+      "/public/images/case-work/work-39-2.webp"
+    ],
+    "imageCaptions": [
+      "퀸사이즈 매트리스 오염도제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-40",
+    "title": "연남동 스튜디오 12평 카페트 스팀케어 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "연남동",
+    "summary": "카페트에 쌓인 먼지와 얼룩, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 연남동에서 진행한 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "연남동 스튜디오 12평 카페트 스팀 케어 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-40-1.webp",
+      "/public/images/case-work/work-40-2.webp"
+    ],
+    "imageCaptions": [
+      "연남동 스튜디오 12평 카페트 스팀케어 현장사진",
+      "카페트 관리 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-41",
+    "title": "강아지 오줌 얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "강아지 오줌 얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-41-1.webp",
+      "/public/images/case-work/work-41-2.webp"
+    ],
+    "imageCaptions": [
+      "강아지 오줌 얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-42",
+    "title": "아이오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "아이오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-42-1.webp",
+      "/public/images/case-work/work-42-2.webp"
+    ],
+    "imageCaptions": [
+      "아이오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-43",
+    "title": "영등포 상업공간 바닥 세척 작업",
+    "service": "상가·사무실",
+    "region": "영등포",
+    "summary": "영업공간 바닥의 오염과 사용 흔적을 정리한 현장입니다.",
+    "description": [
+      "이번 현장은 영등포에서 진행한 상가·사무실 관련 청소 작업입니다.",
+      "영등포 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-43-1.webp",
+      "/public/images/case-work/work-43-2.webp"
+    ],
+    "imageCaptions": [
+      "상업공간 바닥 세척 현장",
+      "바닥 청소 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/services/office/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-44",
+    "title": "소파 클리닝 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "소파의 먼지와 생활오염을 확인하고 패브릭 표면을 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "소파 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-44-1.webp",
+      "/public/images/case-work/work-44-2.webp"
+    ],
+    "imageCaptions": [
+      "소파 클리닝 현장",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-45",
+    "title": "오줌얼룩제거 작업",
+    "service": "소파·매트리스·카펫",
+    "region": "작업지역 비공개",
+    "summary": "매트리스와 패브릭에 남은 얼룩, 오염, 생활 냄새를 중심으로 관리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 소파·매트리스·카펫 관련 청소 작업입니다.",
+      "오줌얼룩제거 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-45-1.webp",
+      "/public/images/case-work/work-45-2.webp"
+    ],
+    "imageCaptions": [
+      "오줌얼룩제거 현장사진",
+      "패브릭 케어 작업 장면"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/home-care/fabric/",
+    "featured": false
+  },
+  {
+    "status": "published",
+    "slug": "case-46",
+    "title": "주방 바닥 및 실내 청소 작업",
+    "service": "급식실·주방",
+    "region": "작업지역 비공개",
+    "summary": "실내 바닥과 주방 주변 오염을 정리한 현장입니다.",
+    "description": [
+      "이번 현장은 작업지역을 공개하지 않는 급식실·주방 관련 청소 작업입니다.",
+      "작업 요청에 맞춰 현장 상태를 먼저 확인하고, 오염이 눈에 띄는 부분을 중심으로 작업 범위를 정리했습니다.",
+      "현장사진을 기준으로 필요한 구역을 나누어 먼지, 얼룩, 생활오염을 차분히 관리했습니다.",
+      "작업 후에는 사용에 불편함이 없도록 표면 상태와 주변 정리 상태를 확인하며 마무리했습니다."
+    ],
+    "images": [
+      "/public/images/case-work/work-46-1.webp",
+      "/public/images/case-work/work-46-2.webp"
+    ],
+    "imageCaptions": [
+      "실내 청소 작업 장면",
+      "청소 후 정돈된 현장"
+    ],
+    "publishedAt": "2026.10.04",
+    "relatedService": "/services/kitchen/",
+    "featured": false
   },
   {
     "status": "draft",
