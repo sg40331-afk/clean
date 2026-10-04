@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "office-floor-care",
+    "title": "사무실 바닥을 깨끗하게 오래 유지하는 관리 방법",
+    "category": "사무실·상가 관리",
+    "summary": "사무실 바닥은 매일 오가는 동선과 의자 바퀴 때문에 오염이 빠르게 쌓입니다. 관리 주기와 기본 습관을 알면 깨끗함을 오래 유지할 수 있습니다.",
+    "thumbnail": "/public/images/cleaning-info/office-floor-care.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "사무실",
+      "바닥관리",
+      "정기청소"
+    ],
+    "featured": true,
+    "relatedService": "/services/office/"
+  },
+  {
+    "slug": "floor-wax-timing",
+    "title": "바닥 왁스코팅이 필요한 시기와 확인 방법",
+    "category": "바닥·왁스 관리",
+    "summary": "왁스코팅은 광택만을 위한 작업이 아니라 바닥 표면을 보호하는 관리 방법입니다. 필요한 시기를 확인하는 기준을 정리했습니다.",
+    "thumbnail": "/public/images/cleaning-info/floor-wax-timing.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "왁스코팅",
+      "바닥청소",
+      "상가관리"
+    ],
+    "featured": false,
+    "relatedService": "/services/floor-wax/"
+  },
+  {
+    "slug": "restroom-odor",
+    "title": "화장실 냄새가 반복되는 주요 원인과 관리법",
+    "category": "화장실 관리",
+    "summary": "화장실 냄새는 표면 오염만이 아니라 배수구, 환기, 줄눈 오염이 함께 영향을 줄 수 있습니다. 반복되는 냄새의 원인을 나눠 봅니다.",
+    "thumbnail": "/public/images/cleaning-info/restroom-odor.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "화장실",
+      "냄새관리",
+      "배수구"
+    ],
+    "featured": false,
+    "relatedService": "/services/restroom/"
+  },
+  {
+    "slug": "window-water-spots",
+    "title": "유리창에 물자국이 남지 않게 청소하는 방법",
+    "category": "유리창 관리",
+    "summary": "유리창 물자국은 물기 제거 타이밍과 도구 선택에 따라 달라집니다. 맑은 창을 유지하는 기본 순서를 안내합니다.",
+    "thumbnail": "/public/images/cleaning-info/window-water-spots.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "유리창",
+      "물자국",
+      "창틀관리"
+    ],
+    "featured": false,
+    "relatedService": "/services/window/"
+  },
+  {
+    "slug": "kitchen-grease-cleaning",
+    "title": "주방 기름때를 안전하게 제거하는 순서",
+    "category": "주방·위생 관리",
+    "summary": "주방 기름때는 무리하게 문지르기보다 불림, 분리, 세척, 건조 순서를 지키는 것이 중요합니다. 안전한 관리 흐름을 정리했습니다.",
+    "thumbnail": "/public/images/cleaning-info/kitchen-grease-cleaning.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "주방",
+      "기름때",
+      "위생관리"
+    ],
+    "featured": false,
+    "relatedService": "/services/kitchen/"
+  },
+  {
+    "slug": "aircon-filter-care",
+    "title": "에어컨 필터 청소 주기와 관리 방법",
+    "category": "에어컨 관리",
+    "summary": "에어컨 필터는 사용 전후와 사용량에 따라 관리 주기가 달라집니다. 직접 할 수 있는 범위와 전문가 상담이 필요한 경우를 구분합니다.",
+    "thumbnail": "/public/images/cleaning-info/aircon-filter-care.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "에어컨",
+      "필터청소",
+      "실내공기"
+    ],
+    "featured": false,
+    "relatedService": "/services/aircon/"
+  },
+  {
+    "slug": "move-in-checklist",
+    "title": "입주청소 전에 확인해야 할 체크리스트",
+    "category": "입주·이사 관리",
+    "summary": "입주청소는 짐이 들어오기 전 확인할수록 효율이 좋습니다. 창틀, 수납장, 욕실, 주방 등 사전 점검 항목을 정리했습니다.",
+    "thumbnail": "/public/images/cleaning-info/move-in-checklist.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "입주청소",
+      "체크리스트",
+      "이사준비"
+    ],
+    "featured": false,
+    "relatedService": "/home-care/move-in/"
+  },
+  {
+    "slug": "dust-after-moving",
+    "title": "이사 후 먼지가 계속 나오는 이유",
+    "category": "입주·이사 관리",
+    "summary": "이사 후 먼지는 박스, 가구 이동, 창틀과 몰딩 틈, 공사 잔먼지에서 반복될 수 있습니다. 원인별 관리 방법을 안내합니다.",
+    "thumbnail": "/public/images/cleaning-info/dust-after-moving.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "이사청소",
+      "먼지",
+      "입주관리"
+    ],
+    "featured": false,
+    "relatedService": "/home-care/move-in/"
+  },
+  {
+    "slug": "sofa-mattress-habits",
+    "title": "소파와 매트리스의 오염을 줄이는 생활 습관",
+    "category": "생활 청소 팁",
+    "summary": "소파와 매트리스는 피부, 먼지, 습기, 생활 냄새가 누적되기 쉽습니다. 일상에서 오염을 줄이는 습관을 정리했습니다.",
+    "thumbnail": "/public/images/cleaning-info/sofa-mattress-habits.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "소파",
+      "매트리스",
+      "생활관리"
+    ],
+    "featured": false,
+    "relatedService": "/home-care/fabric/"
+  },
+  {
+    "slug": "rainy-mold-humidity",
+    "title": "장마철 곰팡이와 습기를 관리하는 방법",
+    "category": "생활 청소 팁",
+    "summary": "습도가 높은 시기에는 환기, 물기 제거, 가구 배치가 중요합니다. 곰팡이를 줄이기 위한 생활 관리 방법을 안내합니다.",
+    "thumbnail": "/public/images/cleaning-info/rainy-mold-humidity.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "곰팡이",
+      "습기",
+      "장마철"
+    ],
+    "featured": false,
+    "relatedService": "/home-care/"
+  },
+  {
+    "slug": "cleaner-mixing-danger",
+    "title": "청소 세제를 섞어 사용하면 안 되는 이유",
+    "category": "생활 청소 팁",
+    "summary": "세제를 섞으면 예상하지 못한 냄새나 자극이 생길 수 있습니다. 안전하게 청소하기 위한 기본 원칙을 설명합니다.",
+    "thumbnail": "/public/images/cleaning-info/cleaner-mixing-danger.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "세제",
+      "안전",
+      "청소주의사항"
+    ],
+    "featured": false,
+    "relatedService": "/contact/"
+  },
+  {
+    "slug": "diy-vs-professional-cleaning",
+    "title": "직접 청소와 전문 청소를 구분하는 기준",
+    "category": "생활 청소 팁",
+    "summary": "일상 관리는 직접 할 수 있지만 장비, 높이, 오염 정도에 따라 전문가 도움이 필요한 경우가 있습니다. 판단 기준을 정리했습니다.",
+    "thumbnail": "/public/images/cleaning-info/diy-vs-professional-cleaning.webp",
+    "publishedAt": "2026.10.05",
+    "updatedAt": "2026.10.05",
+    "author": "청년홈케어",
+    "tags": [
+      "전문청소",
+      "셀프청소",
+      "상담기준"
+    ],
+    "featured": false,
+    "relatedService": "/services/"
+  }
+]
