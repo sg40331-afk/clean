@@ -3,7 +3,7 @@ import path from "node:path";
 
 const root = process.cwd();
 const out = path.join(root, "dist");
-const skip = new Set([".git", "dist", "node_modules"]);
+const skip = new Set([".git", "dist", "node_modules", "docs", "supabase", ".env", ".env.local", ".env.example"]);
 
 function copyDir(from, to) {
   fs.mkdirSync(to, { recursive: true });
