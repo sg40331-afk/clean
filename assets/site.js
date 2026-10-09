@@ -351,7 +351,7 @@ async function renderCaseDetail(slug) {
     const rows = await supabaseRest("cases", `select=*&slug=eq.${encodeURIComponent(slug)}&status=eq.published&limit=1`);
     const row = rows[0];
     if (!row) return;
-    document.title = `${row.title} | 청년홈케어 시공사례`;
+    document.title = `${row.title} | 아크시온 시공사례`;
     main.innerHTML = `<section class="sec case-detail board-detail"><div class="wrap narrow"><a class="backlink" href="/cases/">← 시공사례 목록으로</a><p class="eyebrow">FIELD NOTE</p><h1>${escapeHtml(row.title)}</h1><dl class="meta-grid board-meta"><div><dt>서비스 종류</dt><dd>${escapeHtml(row.service)}</dd></div><div><dt>작업지역</dt><dd>${escapeHtml(row.region || "작업지역 비공개")}</dd></div><div><dt>작성일</dt><dd>${formatDate(row.published_at || row.created_at)}</dd></div></dl>${row.cover_image_path ? `<figure class="admin-detail-photo"><img src="${escapeAttr(row.cover_image_path)}" alt="${escapeAttr(row.cover_image_alt || row.title)}"></figure>` : ""}<h2>현장 작업내용</h2><p>${escapeHtml(row.summary || "")}</p>${textBlock("현장 상태", row.site_condition)}${textBlock("작업 내용", row.work_content)}${textBlock("사용 장비", row.equipment)}${textBlock("작업 결과", row.result)}<div class="related-box board-cta"><h2>비슷한 공간의 청소가 필요하신가요?</h2><p>현장사진과 필요한 청소내용을 보내주시면 상담을 도와드립니다.</p><div><a class="btn" href="/contact/">무료 견적문의</a><a class="btn ghost" href="tel:01097304719">전화상담</a></div></div></div></section>`;
   } catch (error) {
     console.warn("Supabase case detail fallback:", error);
@@ -365,7 +365,7 @@ async function renderCleaningPostDetail(slug) {
     const rows = await supabaseRest("cleaning_posts", `select=*&slug=eq.${encodeURIComponent(slug)}&status=eq.published&limit=1`);
     const row = rows[0];
     if (!row) return;
-    document.title = `${row.title} | 청년홈케어 청소정보`;
+    document.title = `${row.title} | 아크시온 청소정보`;
     const body = Array.isArray(row.body) && row.body.length ? row.body.map((item) => item.text ? `<p>${escapeHtml(item.text)}</p>` : "").join("") : `<p>${escapeHtml(row.summary || "")}</p>`;
     main.innerHTML = `<section class="sec ci-detail"><div class="wrap narrow"><a class="backlink" href="/cleaning-info/">← 청소정보 목록으로</a><p class="eyebrow">${escapeHtml(row.category)}</p><h1>${escapeHtml(row.title)}</h1><p class="lead">${escapeHtml(row.summary || "")}</p>${row.cover_image_path ? `<figure class="admin-detail-photo"><img src="${escapeAttr(row.cover_image_path)}" alt="${escapeAttr(row.cover_image_alt || row.title)}"></figure>` : ""}<article class="ci-article-section">${body}</article><div class="related-box board-cta"><h2>상담이 필요하신가요?</h2><p>현장사진과 공간 정보를 보내주시면 필요한 작업 범위를 안내드립니다.</p><div><a class="btn" href="/contact/">무료 견적문의</a><a class="btn ghost" href="tel:01097304719">전화상담</a></div></div></div></section>`;
   } catch (error) {
@@ -551,4 +551,3 @@ function escapeHtml(value) {
 function escapeAttr(value) {
   return escapeHtml(value).replaceAll("`", "&#96;");
 }
-

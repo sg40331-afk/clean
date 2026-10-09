@@ -1,4 +1,4 @@
--- Cheongnyeon Homecare admin boards and private inquiry schema
+-- ARXION admin boards and private inquiry schema
 -- Created for Supabase Postgres. Review in Supabase SQL editor before applying.
 -- Do not put secret keys in this file.
 

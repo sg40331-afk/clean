@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
-  <title id="title">청년홈케어 차량 랩핑 이미지</title>
-  <desc id="desc">진회색 준중형 SUV 측면에 청년홈케어 상호, 청소 서비스 종류, 전화번호가 들어간 차량 이미지</desc>
+  <title id="title">아크시온 차량 랩핑 이미지</title>
+  <desc id="desc">진회색 준중형 SUV 측면에 아크시온 상호, 청소 서비스 종류, 전화번호가 들어간 차량 이미지</desc>
   <defs>
     <linearGradient id="car" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#56606c"/>
@@ -25,7 +25,7 @@
     <path d="M99 181 H668" stroke="#6f7a86" stroke-width="3" opacity=".6"/>
     <path d="M174 128 H570 C597 128 621 146 626 173 L632 207 H151 L160 151 C162 137 165 128 174 128Z" fill="#313a46" opacity=".32"/>
     <rect x="286" y="134" width="180" height="70" rx="10" fill="url(#blue)"/>
-    <text x="376" y="162" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="30" font-weight="900" fill="#ffffff">청년홈케어</text>
+    <text x="376" y="162" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="30" font-weight="900" fill="#ffffff">아크시온</text>
     <text x="376" y="187" text-anchor="middle" font-family="Arial, 'Noto Sans KR', sans-serif" font-size="15" font-weight="800" fill="#e8f6ff">종합청소 · 홈클리닝</text>
     <g font-family="Arial, 'Noto Sans KR', sans-serif" font-weight="900">
       <text x="132" y="151" font-size="18" fill="#ffffff">정기청소</text>

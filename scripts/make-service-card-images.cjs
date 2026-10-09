@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const root = 'F:/CODEX폴더/청년홈케어/2.github파일/public/images';
+const root = 'F:/CODEX폴더/청년홈케어/2.github/public/images';
 const items = [
   ['regular','정기청소','#e8f5ff','#0878f9','<rect x="90" y="85" width="220" height="150" rx="14" fill="#fff"/><path d="M115 215h170" stroke="#7cc7ff" stroke-width="8"/><circle cx="315" cy="225" r="26" fill="#18c58f"/><path d="M315 199v-42" stroke="#18c58f" stroke-width="12"/><path d="M300 175c-28-18-30-42-2-44 20 9 26 24 17 44zM330 175c28-18 30-42 2-44-20 9-26 24-17 44z" fill="#68db78"/>'],
   ['office','상가·사무실청소','#eef8ff','#0066d6','<rect x="70" y="95" width="115" height="70" rx="8" fill="#fff"/><rect x="215" y="95" width="115" height="70" rx="8" fill="#fff"/><rect x="85" y="175" width="230" height="45" rx="10" fill="#d6ebff"/><rect x="105" y="135" width="55" height="38" rx="5" fill="#082b67"/><rect x="240" y="135" width="55" height="38" rx="5" fill="#0878f9"/>'],
@@ -15,7 +15,7 @@ const items = [
 ];
 function svg(slug,title,bg,accent,body){return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 270" role="img" aria-label="${title}"><defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="${bg}"/><stop offset="1" stop-color="#ffffff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#082b67" flood-opacity=".13"/></filter></defs><rect width="400" height="270" fill="url(#g)"/><circle cx="350" cy="45" r="44" fill="${accent}" opacity=".12"/><circle cx="35" cy="235" r="58" fill="${accent}" opacity=".10"/><g filter="url(#s)">${body}</g></svg>`}
 for (const [slug,title,bg,accent,body] of items) fs.writeFileSync(path.join(root, `service-card-${slug}.svg`), svg(slug,title,bg,accent,body), 'utf8');
-const indexPath = 'F:/CODEX폴더/청년홈케어/2.github파일/index.html';
+const indexPath = 'F:/CODEX폴더/청년홈케어/2.github/index.html';
 let html = fs.readFileSync(indexPath,'utf8');
 for (const [slug] of items) {
   const oldName = slug === 'floor-wax' ? 'service-floor-wax.svg' : `service-${slug}.svg`;
